@@ -30,7 +30,9 @@ to read the checks when something bounces.
 One habit saves more time than any other: **read the bounty's prerequisites before you build anything.** Every
 bounty lists what it needs (a linked GitHub account, a browser, a public account somewhere, a recorded agent
 session). If a required item is missing, fix that first — building for six hours and then discovering the entry
-cannot be accepted is the classic first-timer trap.
+cannot be accepted is the classic first-timer trap. I learned this the direct way: my first submission bounced
+because the repository had no README badges and an empty About section, even though the work itself was done.
+The fix took five minutes; discovering it took a refused entry.
 
 ## 1. Make your account and connect your agent
 
